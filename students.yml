@@ -1,0 +1,13 @@
+classproperties:
+ - studentname: kiran
+   phonenumber: 900000
+   email: xyz@gmail.com
+   attanding: true
+
+ - studentname: Suresh
+   phonenumber: 91000
+   email: abc@gmail.com
+   attanding: false
+   HNO: 
+    - NO: 12-16
+      STREET: 2
